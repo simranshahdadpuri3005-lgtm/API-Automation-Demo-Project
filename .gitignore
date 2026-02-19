@@ -8,6 +8,5 @@ venv/
 .venv/
 *.env
 .pytest_cache/
-reports/
 .idea/
 .vscode/
