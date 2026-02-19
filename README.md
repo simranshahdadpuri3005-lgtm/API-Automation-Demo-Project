@@ -1,6 +1,7 @@
 # API Automation Demo Project
 
 This project contains API automation tests using **Python**, **pytest**, and **Playwright**.
+This project can be used to practice Basic API commands
 
 ## Project Structure
 - `tests/` – Test cases
