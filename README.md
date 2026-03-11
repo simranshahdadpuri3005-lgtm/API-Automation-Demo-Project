@@ -2,7 +2,13 @@
 
 This project demonstrates **basic API automation testing** using **Python**, **Pytest**, and **Playwright**.  
 It is designed as a learning project to practice API requests, response validation, and test automation structure.
-
+  
+## Features
+- API request automation
+- Response validation
+- Pytest test framework
+- Organized test structure
+  
 ## Tech Stack
 - Python
 - Pytest
